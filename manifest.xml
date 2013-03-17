@@ -1,8 +1,6 @@
 <package>
   <description brief="rosdemo_mp3">
-
      rosdemo_mp3
-
   </description>
   <author>Jan Winkler</author>
   <license>BSD</license>
